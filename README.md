@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MichaelStiglmayr
-- 👀 I’m interested in Multiobjective Optimization, Math Programming
+- 👀 I’m interested in multiobjective optimization, mathematical programming, combinatorial optimization, mathematical aspects of machine learning
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects on multiobjective optimization and its interrelations and applications
 - 📫 How to reach me: stiglmayr@math.uni-wuppertal.de
 
 <!---
